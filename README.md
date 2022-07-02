@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ritamsaha00/Logistic-Map/HEAD)
+
 # Logistic-Map
 I created this program to study the behaviour of logistic maps
 
