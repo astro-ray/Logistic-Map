@@ -8,4 +8,3 @@ My main concern when studying the logistic map is the 3-cycle at the point $r = 
 ![](logistic.png)
 ![](download.png)
 ![](download(1).png)
-![HTML](logistic.html)
